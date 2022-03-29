@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<metadata>
+<vectornator:setting key="IsTimeLapseWatermarkDisabled" value="false"/>
+<vectornator:setting key="UndoHistoryDisabled" value="true"/>
+<vectornator:setting key="VNDimensionsVisible" value="true"/>
+<vectornator:setting key="VNSnapToGuides" value="true"/>
+<vectornator:setting key="WDCMYKEnabledKey" value="false"/>
+<vectornator:setting key="WDDisplayWhiteBackground" value="false"/>
+<vectornator:setting key="WDDynamicGuides" value="false"/>
+<vectornator:setting key="WDGuidesVisible" value="true"/>
+<vectornator:setting key="WDIsolateActiveLayer" value="false"/>
+<vectornator:setting key="WDOutlineMode" value="false"/>
+<vectornator:setting key="WDRulersVisible" value="true"/>
+<vectornator:setting key="WDSnapToEdges" value="false"/>
+<vectornator:setting key="WDSnapToGrid" value="false"/>
+<vectornator:setting key="WDSnapToPoints" value="false"/>
+<vectornator:setting key="WDUnits" value="Points"/>
+</metadata>
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="512" width="512" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Capa-1" vectornator:layerName="Capa 1">
+<g opacity="1">
+<g opacity="1">
+<path d="M91.4595 328.574C141.968 328.574 182.92 369.363 182.92 419.689C182.92 469.982 141.968 510.804 91.4595 510.804C40.9182 510.804-0.0336304 469.982-0.0336304 419.689C-0.0336304 369.363 40.9182 328.573 91.4595 328.574ZM91.4595 0.533114C141.968 0.533114 182.887 41.3548 182.887 91.6484C182.887 141.974 141.935 182.764 91.4267 182.764C40.9182 182.764-0.0336304 141.974-0.0336304 91.6484C-0.0336304 41.3548 40.9182 0.533114 91.4595 0.533114ZM420.782 0.533114C471.323 0.533114 512.275 41.3548 512.275 91.6484C512.275 141.974 471.324 182.764 420.782 182.764C370.274 182.764 329.322 141.974 329.322 91.6484C329.322 41.3548 370.274 0.533114 420.782 0.533114Z" fill="#f3603c" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M329.289 423.324C329.289 373.003 370.252 332.209 420.782 332.209C471.313 332.209 512.275 373.003 512.275 423.324C512.275 473.646 471.313 514.44 420.782 514.44C370.252 514.44 329.289 473.646 329.289 423.324Z" fill="#f3603c" fill-rule="evenodd" opacity="0.5" stroke="none"/>
+</g>
+</g>
+</g>
+</svg>
